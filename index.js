@@ -17,6 +17,6 @@ function dec(a) {
   return a - 1
 }
 function makeInt(n) {
-  {return paresInt ('0x2328', 10)}
+  {return parseInt ('0x2328', 10)}
 
   }
