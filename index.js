@@ -16,7 +16,7 @@ function inc(a) {
 function dec(a) {
   return a - 1
 }
-function makeInt(n) {{
-  return parseInt(n)}
+function makeInt(n) {
+  {return paresInt ('0x2328', 10)}
 
-  {return parseInt(true)}}
+  }
