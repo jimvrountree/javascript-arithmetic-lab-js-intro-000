@@ -17,7 +17,9 @@ function dec(a) {
   return a - 1
 }
 function makeInt(n) {
-  return parseInt(n)
-   parseInt('0x2328', 10)
-   parseInt(true)
-}
+  return parseInt(n)}
+  {return parseInt('0x2328', 10)
+  }
+  {return parseInt(true)}
+   
+
